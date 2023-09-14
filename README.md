@@ -10,7 +10,7 @@
 Aplikacija je podjeljenja na:
 
 ### Pokretanje aplikacije lokalno ###
---
+---
 
 Preuzimanje zip datoteke
 
