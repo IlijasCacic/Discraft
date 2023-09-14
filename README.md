@@ -1,18 +1,16 @@
 # Discraft #
 
 ### Kratki opis projekta ###
+Web servisa koji olakšava upravljanje rasporedom događanja ili sastanaka za korisnike na platformi.
 
 ## Osnovne funkcionalnosti uključuju: ##
-
-## Dodatne funkcionalnosti ##
-
-## Struktura aplikacije ##
-Aplikacija je podjeljenja na:
+- Unos imena, datuma, vremena, opisa i organizatora događaja.
+- Uređivanje imena, datuma, vremena, opisa i organizatora upisanog događaja.
+- Brisanje događaja.
 
 ### Pokretanje aplikacije lokalno ###
 ---
-
-Preuzimanje zip datoteke
+Preuzimanje zip datoteke sa github-a
 
 raspakiranje sadržaja
 
