@@ -1,9 +1,9 @@
-# Discraft #
+# Discraft
 
-### Kratki opis projekta ###
+Kratki opis projekta
 Web servisa koji olakšava upravljanje rasporedom događanja ili sastanaka za korisnike na platformi.
 
-## Osnovne funkcionalnosti uključuju: ##
+Osnovne funkcionalnosti uključuju:
 - Unos imena, datuma, vremena, opisa i organizatora događaja.
 - Uređivanje imena, datuma, vremena, opisa i organizatora upisanog događaja.
 - Brisanje događaja.
